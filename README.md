@@ -1,1 +1,2 @@
 # bankapi
+You need to create a REST service that can fetch bank details, using the data given in the API’s query parameters. You can use the data available in this Link in your backend DB. SQL file - Link Write your service in any language of your choice (Preferred - NodeJS). Host it on Heroku - you can sign up for a free account in Heroku. E.g. Here are steps on how you can get a NodeJS app running in Heroku in a few minutes. Please use PostgreSQL as your backend DB. Since the free-tier of Heroku has a limit of 10k rows. You can also use any DB as per your perferences.
